@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-panorama2",
-      "name": "Panorama2",
+      "id": "0-klassenzimmer",
+      "name": "Klassenzimmer",
       "levels": [
         {
           "tileSize": 256,
@@ -29,7 +29,7 @@ var APP_DATA = {
           "yaw": 1.5523526168195882,
           "pitch": 0.03933298708919608,
           "rotation": 1.5707963267948966,
-          "target": "1-panorama3"
+          "target": "1-digitales-lerndorf"
         }
       ],
       "infoHotspots": [
@@ -54,8 +54,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-panorama3",
-      "name": "Panorama3",
+      "id": "1-digitales-lerndorf",
+      "name": "Digitales Lerndorf",
       "levels": [
         {
           "tileSize": 256,
@@ -82,7 +82,7 @@ var APP_DATA = {
           "yaw": 1.2581869302989652,
           "pitch": 0.45662535829547757,
           "rotation": 0,
-          "target": "2-panorama2_002"
+          "target": "2-offene-lernlandschaft"
         }
       ],
       "infoHotspots": [
@@ -101,8 +101,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "2-panorama2_002",
-      "name": "Panorama2_002",
+      "id": "2-offene-lernlandschaft",
+      "name": "offene Lernlandschaft",
       "levels": [
         {
           "tileSize": 256,
@@ -129,7 +129,7 @@ var APP_DATA = {
           "yaw": 0.1311818003552876,
           "pitch": -0.07376516991537407,
           "rotation": 0,
-          "target": "0-panorama2"
+          "target": "0-klassenzimmer"
         }
       ],
       "infoHotspots": [
@@ -172,7 +172,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "Project Title",
+  "name": "Lerndorf",
   "settings": {
     "mouseViewMode": "qtvr",
     "autorotateEnabled": true,
