@@ -143,7 +143,7 @@ var APP_DATA = {
           "yaw": 2.963022083409574,
           "pitch": 0.42301288175085006,
           "title": "praktisches Arbeiten",
-          "text": "Hier können HandsOn und Workshops stattfinden. Teilt man den Raum ab, eignet er sich für Musikkreise, Kunstunterricht usw."
+          "text": "<img src= images/PraktischesArbeiten.jpg></br>Hier können HandsOn und Workshops stattfinden. Teilt man den Raum ab, eignet er sich für Musikkreise, Kunstunterricht usw."
         },
         {
           "yaw": -1.1401941189683633,
@@ -155,7 +155,7 @@ var APP_DATA = {
           "yaw": 1.0196362728267694,
           "pitch": 0.04661753088000431,
           "title": "Fragen und Erklären",
-          "text": "Hier hast du eine Anlaufstelle bei Fragen. Dein Lehrer kann dir alleine oder einer kleinen Gruppe nochmal individuelle Fragen beantworten.&nbsp;&nbsp;"
+          "text": "<img src= images/fragenunderklaeren.jpg></br>Hier hast du eine Anlaufstelle bei Fragen. Dein Lehrer kann dir alleine oder einer kleinen Gruppe nochmal individuelle Fragen beantworten.&nbsp;&nbsp;"
         },
         {
           "yaw": -1.248438983931253,
@@ -180,18 +180,6 @@ var APP_DATA = {
           "pitch": -0.10086181804904015,
           "title": "offene Lernlandschaft",
           "text": "Nachdem du im Klassenraum neues Wissen von deinem Lehrer vermittelt bekommen hast und selbst auf interaktiver Enteckungstour warst, kannst du die Themen nun in der offenen Lernlandschaft vertiefen."
-        },
-        {
-          "yaw": 2.6892805415760366,
-          "pitch": -0.09782725390774516,
-          "title": "Perspektive praktisches Arbeiten",
-          "text": "<img src= images/PraktischesArbeiten.jpg>"
-        },
-        {
-          "yaw": 1.116555740466831,
-          "pitch": -0.18079035539401644,
-          "title": "Perspektive Fragen und Erklären",
-          "text": "<img src= images/fragenunderklären.jpg>"
         }
       ]
     }
