@@ -40,6 +40,12 @@ var APP_DATA = {
           "text": "wird an die Wand projiziert und kann interaktiv bedient und betreten werden"
         },
         {
+          "yaw": -0.6703784212361573,
+          "pitch": -0.12679132845923036,
+          "title": "Grundriss",
+          "text": "<img src= images/Grundriss.jpg></br>TestTExt"
+        },
+        {
           "yaw": -1.4703784212361573,
           "pitch": 0.12679132845923036,
           "title": "Rampe",
