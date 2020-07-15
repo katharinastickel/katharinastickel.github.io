@@ -43,7 +43,7 @@ var APP_DATA = {
           "yaw": -0.6703784212361573,
           "pitch": -0.12679132845923036,
           "title": "Grundriss",
-          "text": "<img src= images/Grundriss.jpg></br> Test"
+          "text": "<img src= images/Grundriss.jpg></br> Das Lerndorf-Cluster eignet sich für eine Klassenstufe von 4 Klassen. Wie in einem Dorf ordnen sich in der Schule der Zukunft die verschiedenen Räume und Bereiche um den zentralen ‚Marktplatz‘ herum an. Sie sind nicht mehr nach Fächern sortiert und anhand deren Inhalte konzipiert, sondern nach der jeweiligen Art und Weise der Vermittlung. Vor allem Kindern soll hier ein unbeschwertes, individuelles und spielerisches Lernen ermöglicht werden. Der Frontalunterricht im allseits bekannten Klassenzimmer wird aufgelöst. Für den Unterricht in Klassen stehen Räume zur Verfügung, in welchen der Boden zu einer Rampe aufsteigt. Hier können die Kinder sitzen und zuhören, jedoch auch interaktiv agieren. Denn die innere Hülle des Raums dient als Projektionsfläche für das digitale Lerndorf. Je nach Unterrichtsfach können die Kinder durch Interaktion den Raum zu einem klingenden Haus, einem Formenhaus, einer Mess- und Wiegewerkstatt oder einer Schatzkammer verwandeln. So wird das vermittelte Wissen begreifbar."
         },
         {
           "yaw": -1.4703784212361573,
