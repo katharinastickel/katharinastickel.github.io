@@ -140,8 +140,8 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": 2.963022083409574,
-          "pitch": 0.42301288175085006,
+          "yaw": 3.063022083409574,
+          "pitch": -0.22301288175085006,
           "title": "praktisches Arbeiten",
           "text": "<img src= images/PraktischesArbeiten.jpg></br>Hier können HandsOn und Workshops stattfinden. Teilt man den Raum ab, eignet er sich für Musikkreise, Kunstunterricht usw."
         },
