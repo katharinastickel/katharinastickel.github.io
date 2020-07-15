@@ -594,9 +594,9 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .info-hotspot .info-hotspot-text {
   position: absolute;
-  width: 300px;
+  width: 800px;
   height: auto;
-  max-height: 200px;
+  max-height: 600px;
   top: 40px;
   left: 0;
   padding: 10px;
@@ -625,6 +625,10 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   -webkit-user-select: text;
   -ms-user-select: text;
   user-select: text;
+}
+
+.info-hotspot .info-hotspot-text img {
+	width: 100%;
 }
 
 .desktop .info-hotspot.visible .info-hotspot-text {
