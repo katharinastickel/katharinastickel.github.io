@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-klassenzimmer",
-      "name": "Klassenzimmer",
+      "id": "0-klassenraum",
+      "name": "Klassenraum",
       "levels": [
         {
           "tileSize": 256,
@@ -36,8 +36,8 @@ var APP_DATA = {
         {
           "yaw": 0.30914578738098264,
           "pitch": -0.2844026120117835,
-          "title": "digitales Lerndorf",
-          "text": "wird an die Wand projiziert und kann interaktiv bedient werden"
+          "title": "Lerndorf als digitaler Layer",
+          "text": "wird an die Wand projiziert und kann interaktiv bedient und betreten werden"
         },
         {
           "yaw": -1.4703784212361573,
@@ -96,7 +96,13 @@ var APP_DATA = {
           "yaw": 0.028346117110501723,
           "pitch": -0.09594043826556664,
           "title": "Sprachforscherhaus",
-          "text": "Du befindest dich jetzt im Sprachforscherhaus."
+          "text": "Du befindest dich jetzt auf virtueller Ebene im Sprachforscherhaus.Wenn du eine VR-Brille aufhast, siehst du um dich herum Informationen zu Texten, Schriften, der Entstehung unserer Sprache usw."
+        },
+        {
+          "yaw": -2.850803302041614,
+          "pitch": -0.1332062628446078,
+          "title": "Perspektive von Rampe aus",
+          "text": "<img src= images/Rampe.jpg>"
         }
       ]
     },
@@ -120,8 +126,8 @@ var APP_DATA = {
       ],
       "faceSize": 1024,
       "initialViewParameters": {
-        "yaw": -0.43819831651590846,
-        "pitch": 0.06138385894326959,
+        "yaw": 0.025242301885999296,
+        "pitch": 0.10135134927466716,
         "fov": 1.4688052696788005
       },
       "linkHotspots": [
@@ -129,54 +135,78 @@ var APP_DATA = {
           "yaw": 0.1311818003552876,
           "pitch": -0.07376516991537407,
           "rotation": 0,
-          "target": "0-klassenzimmer"
+          "target": "0-klassenraum"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 3.0523469774817222,
-          "pitch": 0.44167816187319353,
+          "yaw": 2.963022083409574,
+          "pitch": 0.42301288175085006,
           "title": "praktisches Arbeiten",
-          "text": "Text"
+          "text": "Hier können HandsOn und Workshops stattfinden. Teilt man den Raum ab, eignet er sich für Musikkreise, Kunstunterricht usw."
         },
         {
-          "yaw": -0.9239018850517198,
-          "pitch": 0.1821616547911944,
-          "title": "Nischen für konzentriertes Arbeiten alleine",
-          "text": "Text"
+          "yaw": -1.1401941189683633,
+          "pitch": -0.08067077921193899,
+          "title": "Lernnischen",
+          "text": "Wenn du alleine konzentriert arbeiten möchtest, kannst du dich in die Lernnischen zurückziehen."
         },
         {
-          "yaw": 1.1304027388389706,
-          "pitch": 0.06396206198034982,
+          "yaw": 1.0196362728267694,
+          "pitch": 0.04661753088000431,
           "title": "Fragen und Erklären",
-          "text": "Text"
+          "text": "Hier hast du eine Anlaufstelle bei Fragen. Dein Lehrer kann dir alleine oder einer kleinen Gruppe nochmal individuelle Fragen beantworten.&nbsp;&nbsp;"
         },
         {
-          "yaw": -1.1173014617568704,
-          "pitch": 0.44497409165509616,
-          "title": "offene Zone der Kommunikation, für Gruppenarbeit geeignet",
-          "text": "Text"
+          "yaw": -1.248438983931253,
+          "pitch": 0.32846288727053796,
+          "title": "Kommunikationszone",
+          "text": "Die Zwischenbereiche sind eine Kommunikationszone und eignen sich für Gruppenarbeit."
         },
         {
-          "yaw": -1.8005913090814367,
-          "pitch": 0.09864310439668422,
-          "title": "Faltwand, mit welcher der Raum abgeteilt werden kann",
-          "text": "Text"
+          "yaw": -1.8211015099432935,
+          "pitch": 0.08892354470560093,
+          "title": "Faltwand",
+          "text": "<span style=\"font-size: 16px; background-color: rgba(103, 115, 131, 0.8);\">Mit der Faltwand kann der Raum für praktisches Arbeiten</span><span style=\"background-color: rgba(103, 115, 131, 0.8); font-size: 16px;\">&nbsp;geschlossen werden.</span>"
         },
         {
           "yaw": 0.5467453315111044,
           "pitch": -0.1606596622148544,
-          "title": "Screens für interaktive Wissensvermittlung",
-          "text": "Text"
+          "title": "Screen",
+          "text": "Hier kann dein Lehrer zur Eklärung bei Fragen den interaktiven Screen nutzen."
+        },
+        {
+          "yaw": -0.5582571924260034,
+          "pitch": -0.10086181804904015,
+          "title": "offene Lernlandschaft",
+          "text": "Nachdem du im Klassenraum neues Wissen von deinem Lehrer vermittelt bekommen hast und selbst auf interaktiver Enteckungstour warst, kannst du die Themen nun in der offenen Lernlandschaft vertiefen."
+        },
+        {
+          "yaw": 2.6892805415760366,
+          "pitch": -0.09782725390774516,
+          "title": "Perspektive praktisches Arbeiten",
+          "text": "<img src= images/PraktischesArbeiten.jpg>"
+        },
+        {
+          "yaw": 1.116555740466831,
+          "pitch": -0.18079035539401644,
+          "title": "Perspektive Fragen und Erklären",
+          "text": "<img src= images/fragenunderklären.jpg>"
+        },
+        {
+          "yaw": -1.5206518964624678,
+          "pitch": -0.0385742677871761,
+          "title": "Perspektive Lernnischen",
+          "text": "<img src= images/Sitznischen.jpg>"
         }
       ]
     }
   ],
   "name": "Lerndorf",
   "settings": {
-    "mouseViewMode": "qtvr",
-    "autorotateEnabled": true,
+    "mouseViewMode": "drag",
+    "autorotateEnabled": false,
     "fullscreenButton": false,
-    "viewControlButtons": false
+    "viewControlButtons": true
   }
 };
