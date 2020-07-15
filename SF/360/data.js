@@ -149,7 +149,7 @@ var APP_DATA = {
           "yaw": -1.1401941189683633,
           "pitch": -0.08067077921193899,
           "title": "Lernnischen",
-          "text": "Wenn du alleine konzentriert arbeiten möchtest, kannst du dich in die Lernnischen zurückziehen."
+          "text": "<img src= images/Sitznischen.jpg></br>Wenn du alleine konzentriert arbeiten möchtest, kannst du dich in die Lernnischen zurückziehen."
         },
         {
           "yaw": 1.0196362728267694,
@@ -192,12 +192,6 @@ var APP_DATA = {
           "pitch": -0.18079035539401644,
           "title": "Perspektive Fragen und Erklären",
           "text": "<img src= images/fragenunderklären.jpg>"
-        },
-        {
-          "yaw": -1.5206518964624678,
-          "pitch": -0.0385742677871761,
-          "title": "Perspektive Lernnischen",
-          "text": "<img src= images/Sitznischen.jpg>"
         }
       ]
     }
