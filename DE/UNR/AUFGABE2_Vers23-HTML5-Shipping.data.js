@@ -173,6 +173,6 @@ Module['FS_createPath']('/AUFGABE2_Vers23/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 103, "filename": "/UE4CommandLine.txt"}, {"start": 103, "audio": 0, "end": 39065908, "filename": "/AUFGABE2_Vers23/Content/Paks/AUFGABE2_Vers23-HTML5.pak"}], "remote_package_size": 39065908, "package_uuid": "7b9a08d7-ec7a-4bb0-8401-708355867e7d"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 103, "filename": "/UE4CommandLine.txt"}, {"start": 103, "audio": 0, "end": 39065908, "filename": "/AUFGABE2_Vers23/Content/Paks/AUFGABE2_Vers23-HTML5.pak"}], "remote_package_size": 39065908, "package_uuid": "4384bddb-051c-4868-a4b5-a0dbed2702b4"});
 
 })();
